@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img height="30" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img height="30" src="URL_CSS"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="URL_JS"></a></code>
 <code><a href="https://sass-lang.com/" target="_blank" rel="noreferrer">SCSS</a></code>
