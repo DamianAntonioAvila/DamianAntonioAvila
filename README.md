@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Languajes and tools:</h3>
 <p align="left"></p>
 <div style="display: flex; align-items: center;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
