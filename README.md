@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damian</h1>
+2<h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 - 🔭 I’m currently working on **Foodbook** and another simple projects for some friends 😅
@@ -9,8 +9,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img height="30" src="URL_CSS"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="URL_JS"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="<a href="https://iconscout.com/icons/javascript" class="text-underline font-size-sm" target="_blank">Javascript</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>"></a></code>
 <code><a href="https://sass-lang.com/" target="_blank" rel="noreferrer">SCSS</a></code>
 <code><a href="https://rubyonrails.org" target="_blank" rel="noreferrer">Ruby on Rails</a></code>
 <code><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a></code> 
