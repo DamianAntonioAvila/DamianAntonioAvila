@@ -14,7 +14,7 @@
         <img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
+        <img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
     </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
