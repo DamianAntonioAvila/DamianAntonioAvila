@@ -7,8 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<h3 align="left">Languajes and tools:</h3>
-<p align="left"></p>
+<h3 align="left">Languages and tools:</h3>
 <div style="display: flex; align-items: center;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
         <img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
@@ -28,8 +27,10 @@
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="30" height="30"/>
     </a> 
+    <a href="https://www.ruby-lang.org/de/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="Ruby" width="30" height="30"/>
+    </a>
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-        Ruby on Rails
         <img src="https://www.svgrepo.com/show/376345/rails.svg" alt="ruby" width="30" height="30"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -42,7 +43,4 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
     </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
-    </a>
-</div>
-
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" widt
