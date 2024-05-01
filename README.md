@@ -30,7 +30,7 @@
     </a> 
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
         Ruby on Rails
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="ruby" width="30" height="30"/>
+        <img src="https://www.svgrepo.com/show/376345/rails.svg" alt="ruby" width="30" height="30"/>
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
