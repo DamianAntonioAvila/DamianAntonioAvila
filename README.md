@@ -7,18 +7,18 @@
 <h3 align="center">Musician with a Passion for Technology</h3>
 
 <p align="center">
-    🚀 With over 12 years entrenched in the gastronomy realm 🍽️, spanning from dish service to orchestrating entire restaurant operations, I've honed mastery in operations management, customer service, and collaborative teamwork! Despite an early departure from university due to financial constraints 💸, my trajectory has been marked by goal attainment and adept steering of restaurant ventures! Recently, I triumphed in the rigorous Le Wagon web development bootcamp with flying colors! 💻 Additionally, I'm currently pursuing a Cisco certification in JavaScript and delving into React independently to further enhance my skill set. Now, I'm poised to fuse my culinary passion with newfound web development acumen to invigorate my career path. It's time to serve up a platter brimming with creativity and tech! 🌟
+    🚀 With over 14 years entrenched in the gastronomy realm 🍽️, spanning from dish service to orchestrating entire restaurant operations, I've honed mastery in operations management, customer service, and collaborative teamwork! Despite an early departure from university due to financial constraints 💸, my trajectory has been marked by goal attainment and adept steering of restaurant ventures! Recently, I triumphed in the rigorous Le Wagon web development bootcamp with flying colors! 💻 Additionally, I'm currently pursuing a Cisco certification in JavaScript and delving into React independently to further enhance my skill set. Now, I'm poised to fuse my culinary passion with newfound web development acumen to invigorate my career path. It's time to serve up a platter brimming with creativity and tech! 🌟
 </p>
 
 <hr>
 
 
 <p align="center">
-    - 🔭 Currently, I'm immersed in **Foodbook** development and undertaking other projects for friends 😅
+    - 🔭 Currently, I am undergoing a vocational retraining (Umschulung) program as an IT specialist for application development at BBQ Düsseldorf 😅
 </p>
 
 <p align="center">
-    - 🌱 I'm actively delving into **Javascript, Angular, React** to expand my skill set.
+    - 🌱 I'm actively delving into **Java, Spring, and Linux** to expand my skill set.
 </p>
 
 <h3 align="center">You can see my LinkedIn profile here:</h3>
