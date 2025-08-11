@@ -7,7 +7,7 @@
 <h3 align="center">Musician with a Passion for Technology</h3>
 
 <p align="center">
-    🚀 With over 14 years entrenched in the gastronomy realm 🍽️, spanning from dish service to orchestrating entire restaurant operations, I've honed mastery in operations management, customer service, and collaborative teamwork! Despite an early departure from university due to financial constraints 💸, my trajectory has been marked by goal attainment and adept steering of restaurant ventures! Recently, I triumphed in the rigorous Le Wagon web development bootcamp with flying colors! 💻 Additionally, I'm currently pursuing a Cisco certification in JavaScript and delving into React independently to further enhance my skill set. Now, I'm poised to fuse my culinary passion with newfound web development acumen to invigorate my career path. It's time to serve up a platter brimming with creativity and tech! 🌟
+   🚀 With 14+ years in the gastronomy industry 🍽️ — from service to managing entire restaurants — I mastered operations, customer service, and teamwork. After completing the Le Wagon web development bootcamp 💻, I’m now focusing on learning Python and strengthening my React skills to grow as a versatile developer. Ready to bring creativity, discipline, and passion to the tech world! 🌟
 </p>
 
 <hr>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    - 🌱 I'm actively delving into **Java, Spring, and Linux** to expand my skill set.
+    - 🌱 I'm actively delving into **Python and Django** to expand my skill set.
 </p>
 
 <h3 align="center">You can see my LinkedIn profile here:</h3>
