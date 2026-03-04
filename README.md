@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    - 🌱 I'm actively delving into **Python and Django** to expand my skill set.
+    - 🌱 I'm actively delving into Typescript to expand my skill set.
 </p>
 
 <h3 align="center">You can see my LinkedIn profile here:</h3>
