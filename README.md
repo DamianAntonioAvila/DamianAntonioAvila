@@ -32,32 +32,55 @@
 <hr>
 
 <h3 align="center">Languages and tools:</h3>
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vsc logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
-    <img width="18">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-    <img width="18">
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sql logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-    <img width="18">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-    <img width="18">
-   
-    
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
+    </a>
+
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
+    </a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+    </a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+    </a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+    </a>
+
+    <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap"/>
+    </a>
+
+    <a href="https://react.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+    </a>
+
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="40" alt="TypeScript"/>
+    </a>
+
+    <a href="https://www.sqlite.org/index.html" target="_blank">
+        <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="SQLite"/>
+    </a>
+
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma"/>
+    </a>
+
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+    </a>
+
+    <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+    </a>
 
 </div>
 <hr>
