@@ -4,30 +4,41 @@
 
 <hr>
 
-<h3 align="center">Musician with a Passion for Technology</h3>
+<h3 align="center">From Hospitality Leadership to Software Development</h3>
 
 <p align="center">
-   🚀 With 14+ years in the gastronomy industry 🍽️ — from service to managing entire restaurants — I mastered operations, customer service, and teamwork. After completing the Le Wagon web development bootcamp 💻, I’m now focusing on learning Python and strengthening my React skills to grow as a versatile developer. Ready to bring creativity, discipline, and passion to the tech world! 🌟
+🚀 With over 14 years of experience in the gastronomy industry — from hands-on service to managing entire restaurant operations — I developed strong skills in leadership, customer experience, and high-pressure decision-making.  
+<br><br>
+💻 After completing the Le Wagon Web Development Bootcamp, I transitioned into tech and I am currently finalizing my Umschulung as a <b>Fachinformatiker für Anwendungsentwicklung</b> at BBQ Düsseldorf.  
+<br><br>
+🌍 Fluent in Spanish, English, and German, I bring a multicultural perspective and strong communication skills to any team.  
+<br><br>
+⚡ I combine discipline, adaptability, and real-world problem-solving with a growing technical stack to deliver reliable and user-focused solutions.
 </p>
 
 <hr>
 
-
 <p align="center">
-    - 🔭 Currently, I am undergoing a vocational retraining (Umschulung) program as an IT specialist for application development at BBQ Düsseldorf 😅
+🔭 Currently completing my vocational training (Umschulung) in Software Development at BBQ Düsseldorf  
 </p>
 
 <p align="center">
-    - 🌱 I'm actively delving into Typescript to expand my skill set.
+🌱 Focused on improving my skills in <b>TypeScript, Node.js, and modern web development</b>  
 </p>
 
-<h3 align="center">You can see my LinkedIn profile here:</h3>
-<br>
 <p align="center">
-    <a href="https://www.linkedin.com/in/damianantonioavila/" target="_blank" rel="noreferrer">
-        <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
-    </a>
-    <br>
+🎯 Actively looking for a <b>Junior Developer position starting August 2026</b>  
+</p>
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/damianantonioavila/" target="_blank" rel="noreferrer">
+<img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
+</a>
+</p>
+
+   <br>
     <br>
 <hr>
 
